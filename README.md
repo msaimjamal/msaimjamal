@@ -101,9 +101,6 @@ AI-powered clinical documentation platform designed around provider workflows.
 </td>
 </tr>
 
-<tr>
-
-</tr>
 </table>
 
 ---
