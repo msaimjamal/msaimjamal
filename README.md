@@ -14,7 +14,7 @@
 <a href="https://github.com/YOUR_USERNAME?tab=repositories">
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Total%20Stars&style=for-the-badge&logo=github&color=161b22" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/mohammad-jamal-4189841bb/">
   <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
