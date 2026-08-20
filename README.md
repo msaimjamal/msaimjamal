@@ -112,8 +112,6 @@ AI-powered clinical documentation platform designed around provider workflows.
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=msaimjamal&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=msaimjamal&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 </div>
