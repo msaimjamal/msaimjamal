@@ -8,12 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=161b22" />
-</a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Total%20Stars&style=for-the-badge&logo=github&color=161b22" />
-</a>
 <a href="https://www.linkedin.com/in/mohammad-jamal-4189841bb/">
   <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
@@ -108,40 +102,7 @@ AI-powered clinical documentation platform designed around provider workflows.
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🌐 Blockchain Networking
-
-Networking infrastructure for a blockchain platform with a custom consensus mechanism.
-
-**Built with**
-
-`Networking` `Distributed Systems` `Blockchain`
-
-**Highlights**
-
-* Peer-to-peer communication
-* Consensus infrastructure
-* Distributed architecture
-* Blockchain networking
-
-</td>
-
-<td width="50%">
-
-### 🛠️ Developer Tools
-
-Experimenting with local AI models, coding agents, automation, and developer productivity tooling.
-
-**Focus**
-
-`LLMs` `Agents` `Local AI` `Automation`
-
-**Goal**
-
-Build tools that make software engineers faster.
-
-</td>
 </tr>
 </table>
 
@@ -151,9 +112,9 @@ Build tools that make software engineers faster.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=msaimjamal&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=msaimjamal&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 </div>
 
@@ -161,17 +122,10 @@ Build tools that make software engineers faster.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<img
+  src="https://ghchart.rshah.org/216e39/msaimjamal"
+  alt="GitHub Contribution Calendar"
+/>
 
 </div>
 
@@ -181,7 +135,7 @@ Build tools that make software engineers faster.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msaimjamal&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
@@ -242,14 +196,6 @@ Infrastructure
 
 <a href="https://www.linkedin.com/in/mohammad-jamal-4189841bb/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
