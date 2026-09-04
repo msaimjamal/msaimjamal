@@ -101,6 +101,27 @@ AI-powered clinical documentation platform designed around provider workflows.
 </td>
 </tr>
 
+<tr>
+<td width="50%">
+
+### 📚 Escoria Documentation RAG Assistant
+
+AI-powered documentation assistant that answers Escoria framework questions using retrieved documentation context.
+
+**Built with**
+
+`Python` `FAISS` `OpenAI-Compatible APIs` `Docutils`
+
+**Highlights**
+
+* Retrieval-augmented generation
+* Semantic search over RST documentation
+* Grounded answers with source sections
+* Compatible with local and hosted LLM providers
+
+</td>
+</tr>
+
 </table>
 
 ---
