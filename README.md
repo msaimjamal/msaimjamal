@@ -126,16 +126,6 @@ AI-powered clinical documentation platform designed around provider workflows.
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msaimjamal&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
 ## 💼 Experience
 
 ### Software Engineering · Enterprise Architecture
